@@ -63,5 +63,9 @@ to the mod author. Only enable what you're comfortable sharing.
 
 ## Credits
 
-ZA/UM for *Disco Elysium* and Kim Kitsuragi · BepInEx / HarmonyX / Il2CppInterop ·
-the player-AI / Claude Code community.
+*Disco Elysium* — its world, its writing, and Kim Kitsuragi himself — is the work
+of the game's **original creators**. Kimsole is an unofficial, non-commercial
+**fan tribute**; no affiliation, no ownership claimed.
+
+Built on BepInEx / HarmonyX / Il2CppInterop. Thanks to the player-AI / Claude Code
+community.
